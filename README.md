@@ -1,5 +1,5 @@
 # Prom Night: A Text-Based Adventure (Final CS50P Project)
-Video Demo:
+Video Demo: https://youtu.be/4AGs7gNoz4w
 
 # About 
 Prom Night is an interactive text-based game where you choose your own adventure! Experience the excitement and awkward moments of a memorable evening at the prom. You'll meet interesting characters, make important decisions, and even discover the magic (or not!) of a prom night kiss.
